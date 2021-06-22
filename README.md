@@ -1,0 +1,2 @@
+# SOLID_L_Principle
+ LiskovSubstitutionPrincipleDemo
